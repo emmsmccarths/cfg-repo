@@ -5,6 +5,10 @@
       <link rel="stylesheet" type="text/css" href="css/styles.css">
   </head>
   <body>
+<<<<<<< HEAD
 <h1>Hello Emma</h1>
+=======
+<h1>Hello everyone!!</h1>
+>>>>>>> gh-pages
 </body>
 </html>
